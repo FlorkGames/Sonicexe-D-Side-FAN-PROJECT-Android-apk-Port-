@@ -1,0 +1,7 @@
+Sunky Cameo (Coded by KJP)
+Moves an image from Left to Right.
+
+Must be in 'mods/images'
+
+Value 1: Path of the Image
+Value 2: X and Y
