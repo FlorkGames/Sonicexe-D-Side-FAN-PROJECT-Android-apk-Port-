@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "morning idle"
+		},
+		{
+			"offsets": [
+				-20,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "morning right"
+		},
+		{
+			"offsets": [
+				-20,
+				75
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "morning left"
+		},
+		{
+			"offsets": [
+				-20,
+				75
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "morning down"
+		},
+		{
+			"offsets": [
+				-20,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "morning up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				75
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "morning every-miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				75
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "morning every-miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				75
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "morning every-miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				75
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "morning every-miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/morning",
+	"position": [
+		-320,
+		330
+	],
+	"healthicon": "mitee",
+	"flip_x": true,
+	"healthbar_colors": [
+		133,
+		79,
+		158
+	],
+	"camera_position": [
+		-130,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}
