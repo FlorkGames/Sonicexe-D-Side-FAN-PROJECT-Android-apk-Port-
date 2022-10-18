@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FAKE Gun mighty.png">
+	
+	
+	<SubTexture name="sonicFAKEDown0000" x="0" y="0" width="372" height="282" frameX="0" frameY="-4" frameWidth="372" frameHeight="286" />
+	<SubTexture name="sonicFAKEDown0001" x="372" y="0" width="367" height="282" frameX="0" frameY="-4" frameWidth="372" frameHeight="286" />
+	<SubTexture name="sonicFAKEDown0002" x="739" y="0" width="349" height="282" frameX="-2" frameY="0" frameWidth="372" frameHeight="286" />
+	<SubTexture name="sonicFAKEDown0003" x="1089" y="0" width="349" height="282" frameX="-2" frameY="0" frameWidth="372" frameHeight="286" />
+	<SubTexture name="sonicFAKEDown0004" x="1438" y="0" width="352" height="282" frameX="-2" frameY="0" frameWidth="372" frameHeight="286" />
+	<SubTexture name="sonicFAKEDown0005" x="1438" y="0" width="352" height="282" frameX="-2" frameY="0" frameWidth="372" frameHeight="286" />
+	<SubTexture name="sonicFAKEDown0006" x="1438" y="0" width="352" height="282" frameX="-2" frameY="0" frameWidth="372" frameHeight="286" />
+	<SubTexture name="sonicFAKEGun0000" x="1791" y="0" width="258" height="327" frameX="0" frameY="-2" frameWidth="334" frameHeight="328" />
+	<SubTexture name="sonicFAKEGun0001" x="1791" y="0" width="258" height="327" frameX="0" frameY="-2" frameWidth="334" frameHeight="328" />
+	<SubTexture name="sonicFAKEGun0002" x="2049" y="0" width="333" height="292" frameX="-1" frameY="-1" frameWidth="334" frameHeight="328" />
+	<SubTexture name="sonicFAKEGun0003" x="2382" y="0" width="329" height="292" frameX="-1" frameY="-1" frameWidth="334" frameHeight="328" />
+	<SubTexture name="sonicFAKEGun0004" x="2711" y="0" width="316" height="293" frameX="-1" frameY="-1" frameWidth="334" frameHeight="328" />
+	<SubTexture name="sonicFAKEGun0005" x="3028" y="0" width="316" height="293" frameX="-1" frameY="-1" frameWidth="334" frameHeight="328" />
+	<SubTexture name="sonicFAKEGun0006" x="3344" y="0" width="318" height="293" frameX="-1" frameY="0" frameWidth="334" frameHeight="328" />
+	<SubTexture name="sonicFAKEGun0007" x="3344" y="0" width="318" height="293" frameX="-1" frameY="0" frameWidth="334" frameHeight="328" />
+	<SubTexture name="sonicFAKEGun0008" x="3663" y="0" width="318" height="293" frameX="-1" frameY="0" frameWidth="334" frameHeight="328" />
+	<SubTexture name="sonicFAKEGun0009" x="3663" y="0" width="318" height="293" frameX="-1" frameY="0" frameWidth="334" frameHeight="328" />
+	<SubTexture name="sonicFAKEGun0010" x="0" y="327" width="318" height="293" frameX="-1" frameY="0" frameWidth="334" frameHeight="328" />
+	<SubTexture name="sonicFAKEGun0011" x="0" y="327" width="318" height="293" frameX="-1" frameY="0" frameWidth="334" frameHeight="328" />
+	<SubTexture name="sonicFAKEGun0012" x="318" y="327" width="327" height="293" frameX="-1" frameY="0" frameWidth="334" frameHeight="328" />
+	<SubTexture name="sonicFAKEGun0013" x="318" y="327" width="327" height="293" frameX="-1" frameY="0" frameWidth="334" frameHeight="328" />
+	<SubTexture name="sonicFAKEI0000" x="646" y="327" width="233" height="335" frameX="0" frameY="-2" frameWidth="235" frameHeight="337" />
+	<SubTexture name="sonicFAKEI0001" x="646" y="327" width="233" height="335" frameX="0" frameY="-2" frameWidth="235" frameHeight="337" />
+	<SubTexture name="sonicFAKEI0002" x="879" y="327" width="232" height="336" frameX="-1" frameY="-1" frameWidth="235" frameHeight="337" />
+	<SubTexture name="sonicFAKEI0003" x="879" y="327" width="232" height="336" frameX="-1" frameY="-1" frameWidth="235" frameHeight="337" />
+	<SubTexture name="sonicFAKEI0004" x="1112" y="327" width="234" height="336" frameX="-1" frameY="-1" frameWidth="235" frameHeight="337" />
+	<SubTexture name="sonicFAKEI0005" x="1112" y="327" width="234" height="336" frameX="-1" frameY="-1" frameWidth="235" frameHeight="337" />
+	<SubTexture name="sonicFAKEI0006" x="1346" y="327" width="234" height="336" frameX="-1" frameY="0" frameWidth="235" frameHeight="337" />
+	<SubTexture name="sonicFAKEI0007" x="1346" y="327" width="234" height="336" frameX="-1" frameY="0" frameWidth="235" frameHeight="337" />
+	<SubTexture name="sonicFAKEI0008" x="1580" y="327" width="234" height="336" frameX="-1" frameY="0" frameWidth="235" frameHeight="337" />
+	<SubTexture name="sonicFAKEI0009" x="1580" y="327" width="234" height="336" frameX="-1" frameY="0" frameWidth="235" frameHeight="337" />
+	<SubTexture name="sonicFAKEI0010" x="1814" y="327" width="234" height="336" frameX="-1" frameY="0" frameWidth="235" frameHeight="337" />
+	<SubTexture name="sonicFAKEI0011" x="1814" y="327" width="234" height="336" frameX="-1" frameY="0" frameWidth="235" frameHeight="337" />
+	<SubTexture name="sonicFAKEI0012" x="1346" y="327" width="234" height="336" frameX="-1" frameY="0" frameWidth="235" frameHeight="337" />
+	<SubTexture name="sonicFAKEI0013" x="1346" y="327" width="234" height="336" frameX="-1" frameY="0" frameWidth="235" frameHeight="337" />
+	<SubTexture name="sonicFAKELeft0000" x="2048" y="327" width="350" height="294" />
+	<SubTexture name="sonicFAKELeft0001" x="2398" y="327" width="345" height="294" frameX="0" frameY="0" frameWidth="350" frameHeight="294" />
+	<SubTexture name="sonicFAKELeft0002" x="2744" y="327" width="341" height="293" frameX="-1" frameY="-1" frameWidth="350" frameHeight="294" />
+	<SubTexture name="sonicFAKELeft0003" x="3085" y="327" width="341" height="293" frameX="-1" frameY="-1" frameWidth="350" frameHeight="294" />
+	<SubTexture name="sonicFAKELeft0004" x="3427" y="327" width="344" height="293" frameX="-1" frameY="-1" frameWidth="350" frameHeight="294" />
+	<SubTexture name="sonicFAKELeft0005" x="3427" y="327" width="344" height="293" frameX="-1" frameY="-1" frameWidth="350" frameHeight="294" />
+	<SubTexture name="sonicFAKELeft0006" x="3427" y="327" width="344" height="293" frameX="-1" frameY="-1" frameWidth="350" frameHeight="294" />
+	<SubTexture name="sonicFAKELeft0007" x="3427" y="327" width="344" height="293" frameX="-1" frameY="-1" frameWidth="350" frameHeight="294" />
+	<SubTexture name="sonicFAKERight0000" x="0" y="663" width="372" height="291" />
+	<SubTexture name="sonicFAKERight0001" x="372" y="663" width="367" height="291" frameX="0" frameY="0" frameWidth="372" frameHeight="291" />
+	<SubTexture name="sonicFAKERight0002" x="740" y="663" width="357" height="291" frameX="0" frameY="0" frameWidth="372" frameHeight="291" />
+	<SubTexture name="sonicFAKERight0003" x="1097" y="663" width="357" height="291" frameX="0" frameY="0" frameWidth="372" frameHeight="291" />
+	<SubTexture name="sonicFAKERight0004" x="1455" y="663" width="360" height="291" frameX="0" frameY="0" frameWidth="372" frameHeight="291" />
+	<SubTexture name="sonicFAKERight0005" x="1455" y="663" width="360" height="291" frameX="0" frameY="0" frameWidth="372" frameHeight="291" />
+	<SubTexture name="sonicFAKERight0006" x="1455" y="663" width="360" height="291" frameX="0" frameY="0" frameWidth="372" frameHeight="291" />
+	<SubTexture name="sonicFAKEUp0000" x="1815" y="663" width="350" height="301" frameX="-2" frameY="0" frameWidth="352" frameHeight="301" />
+	<SubTexture name="sonicFAKEUp0001" x="2165" y="663" width="345" height="301" frameX="-2" frameY="0" frameWidth="352" frameHeight="301" />
+	<SubTexture name="sonicFAKEUp0002" x="2511" y="663" width="340" height="297" frameX="0" frameY="-4" frameWidth="352" frameHeight="301" />
+	<SubTexture name="sonicFAKEUp0003" x="2851" y="663" width="340" height="297" frameX="0" frameY="-4" frameWidth="352" frameHeight="301" />
+	<SubTexture name="sonicFAKEUp0004" x="3191" y="663" width="342" height="297" frameX="0" frameY="-4" frameWidth="352" frameHeight="301" />
+	<SubTexture name="sonicFAKEUp0005" x="3191" y="663" width="342" height="297" frameX="0" frameY="-4" frameWidth="352" frameHeight="301" />
+	<SubTexture name="sonicFAKEUp0006" x="3191" y="663" width="342" height="297" frameX="0" frameY="-4" frameWidth="352" frameHeight="301" />
+</TextureAtlas>

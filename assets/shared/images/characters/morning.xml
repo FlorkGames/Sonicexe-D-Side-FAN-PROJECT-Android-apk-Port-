@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="morning.png">
+<SubTexture name="morning idle0000" x="0" y="0" width="187" height="347" frameX="-45" frameY="0" frameWidth="287" frameHeight="347" />
+<SubTexture name="morning right0000" x="187" y="0" width="187" height="347" frameX="-45" frameY="0" frameWidth="287" frameHeight="347" />
+<SubTexture name="morning right0001" x="374" y="0" width="187" height="347" frameX="-45" frameY="0" frameWidth="287" frameHeight="347" />
+<SubTexture name="morning left0000" x="561" y="0" width="187" height="347" frameX="-45" frameY="0" frameWidth="287" frameHeight="347" />
+<SubTexture name="morning left0001" x="0" y="347" width="187" height="347" frameX="-45" frameY="0" frameWidth="287" frameHeight="347" />
+<SubTexture name="morning up0000" x="187" y="347" width="187" height="347" frameX="-45" frameY="0" frameWidth="287" frameHeight="347" />
+<SubTexture name="morning up0001" x="374" y="347" width="187" height="347" frameX="-45" frameY="0" frameWidth="287" frameHeight="347" />
+<SubTexture name="morning down0000" x="561" y="347" width="187" height="347" frameX="-45" frameY="0" frameWidth="287" frameHeight="347" />
+<SubTexture name="morning down0001" x="748" y="0" width="187" height="347" frameX="-45" frameY="0" frameWidth="287" frameHeight="347" />
+<SubTexture name="morning every-miss0000" x="748" y="347" width="187" height="347" frameX="-45" frameY="0" frameWidth="287" frameHeight="347" />
+</TextureAtlas>
